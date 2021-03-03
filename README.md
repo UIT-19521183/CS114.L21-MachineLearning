@@ -10,6 +10,6 @@
 ## Thành viên nhóm
 | STT | Họ tên | MSSV | Email | GitHub |
 | --- | --- | --- | --- | --- |
-| 1 | Nguyễn Thị Thúy An | 19521183 | 19521183@gmail.uit.edu.vn | |
+| 1 | Nguyễn Thị Thúy An | 19521183 | 19521183@gmail.uit.edu.vn | [19521183](github.com/19521183/) |
 | 2 | Nguyễn Lâm Thảo Vy | 19522547 | 19522547@gmail.uit.edu.vn| |
 | 3 | Nguyễn Thị Hiền Trang | 19522383| 19522383@gmail.uit.edu.vn| |
