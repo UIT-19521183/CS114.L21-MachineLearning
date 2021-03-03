@@ -5,8 +5,8 @@
 - **Lớp học:** CS114.L21
 - **Năm học:** 2020-2021
 ## Giảng viên hướng dẫn
-- PGS.TS. Lê Đình Duy: duydl@uit.edu.vn
-- ThS. Phạm Nguyễn Trường An: truonganpn@uit.edu.vn
+- **PGS.TS. Lê Đình Duy:** duydl@uit.edu.vn
+- **ThS. Phạm Nguyễn Trường An:** truonganpn@uit.edu.vn
 ## Thành viên nhóm
 | STT | Họ tên | MSSV | Email | GitHub |
 | --- | --- | --- | --- | --- |
