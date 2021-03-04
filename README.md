@@ -11,5 +11,5 @@
 | STT | Họ tên | MSSV | GitHub | Email |
 | :---: | -------------- | --- | --- | --- |
 | 1 | Nguyễn Thị Thúy An | 19521183 | [UIT-19521183](https://github.com/UIT-19521183) | 19521183@gm.uit.edu.vn | 
-| 2 | Nguyễn Lâm Thảo Vy | 19522547 |      | 19522547@gm.uit.edu.vn |
+| 2 | Nguyễn Lâm Thảo Vy | 19522547 | [UIT19522547](https://github.com/UIT19522547)     | 19522547@gm.uit.edu.vn |
 | 3 | Nguyễn Thị Hiền Trang | 19522383|      | 19522383@gm.uit.edu.vn |
