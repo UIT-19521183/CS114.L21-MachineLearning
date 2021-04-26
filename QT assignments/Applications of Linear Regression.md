@@ -15,5 +15,6 @@
 - Input: ngày/tháng/năm hiện tại (int,int,int)
 - Output: dự đoán lưu lượng mưa trong 1 tuần theo từng giờ (array(float))
 5. Dự đoán tỉ lệ mắc bệnh di truyền:
-- Input: số lượng người mắc bệnh di truyền trong gia đình (int), khoảng cách thế hệ giữa các thành viên và người cần dự đoán (array(int))
-- Output: tỉ lệ mắc bệnh di truyền của người cần dự đoán (float) 
+- Input: số lượng người mắc bệnh di truyền trong gia đình (int), giới tính của các thành viên trong gia đình (array(int)), khoảng cách thế hệ giữa các thành viên và người cần dự đoán (array(int))
+- Output: tỉ lệ mắc bệnh di truyền của người cần dự đoán (float)
+ 
