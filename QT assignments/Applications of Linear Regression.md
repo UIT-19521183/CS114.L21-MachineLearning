@@ -14,3 +14,6 @@
 - Dataset: dữ liệu lượng mưa trong 3 năm gần đây theo từng giờ: lưu lượng mưa (array(float)), ngày/tháng/năm (array(int,int,int))
 - Input: ngày/tháng/năm hiện tại (int,int,int)
 - Output: dự đoán lưu lượng mưa trong 1 tuần theo từng giờ (array(float))
+5. Dự đoán tỉ lệ mắc bệnh di truyền:
+- Input: số lượng người mắc bệnh di truyền trong gia đình (int), khoảng cách thế hệ giữa các thành viên và người cần dự đoán (array(int))
+- Output: tỉ lệ mắc bệnh di truyền của người cần dự đoán (float) 
