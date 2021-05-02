@@ -23,7 +23,7 @@
 - Output: giá cổ phiếu trong giờ, phút, giây cần dự đoán (float)
 ## Bài toán 3: Dự đoán doanh thu phim:
 - Dataset: dữ liệu về các bộ phim khác đã được chiếu: ngân sách sản xuất phim (array(float)), doanh thu của phim (array(float)) 
-- Thu thập data từ các trang web về doanh thu phim (vd: https://www.the-numbers.com/movie/budgets/all)
+- Cách thu thập data: thu thập data từ các trang web về doanh thu phim (vd: https://www.the-numbers.com/movie/budgets/all)
 - Cách xử lý data:
   - Lưu data thành 2 cột ngân sách (float), doanh thu (float) vào file.csv
   - Loại bỏ những điểm dữ liệu bất thường (vd: doanh thu phim bằng 0 vì phim bị dời ngày phát hành,...)
