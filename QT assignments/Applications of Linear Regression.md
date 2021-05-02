@@ -27,6 +27,6 @@
 - Cách xử lý data:
   - Lưu data thành 2 cột ngân sách (float), doanh thu (float) vào file.csv
   - Loại bỏ những điểm dữ liệu bất thường (vd: doanh thu phim bằng 0 vì phim bị dời ngày phát hành,...)
-- Input: ngân sách để sản xuất bộ phim cần dự đoán (float)
+- Input: ngân sách sản xuất bộ phim cần dự đoán (float)
 - Output: doanh thu của bộ phim cần dự đoán (float)
  
