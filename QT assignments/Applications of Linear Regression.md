@@ -9,8 +9,8 @@
 - Dataset: giá cổ phiếu của doanh nghiệp cần dự đoán theo giây trong vòng 3 giờ gần đây: giờ (array(int)), phút (array(int)), giây (array(int)), giá cổ phiếu (array(float))
 - Cách thu thập data: thu thập data từ các trang web về cổ phiếu, chứng khoán,... (vd: https://iboard.ssi.com.vn/)
 - Cách xử lý data: 
- - Chuyển giờ/phút/giây từ dạng văn bản về thành mảng 3 số nguyên
- - Đưa data thành 4 cột giờ (int), phút(int), giây(int), giá cổ phiếu(float) 
+  - Chuyển giờ/phút/giây từ dạng văn bản về thành mảng 3 số nguyên
+  - Đưa data thành 4 cột giờ (int), phút(int), giây(int), giá cổ phiếu(float) 
 - Input: giờ, phút, giây cần dự đoán giá cổ phiếu (int,int,int)
 - Output: giá cổ phiếu trong giờ, phút, giây cần dự đoán (float)
 ## 3. Dự đoán doanh thu phim:
