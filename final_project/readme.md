@@ -95,8 +95,8 @@
  * Với model VietOCR thì nhóm em để chia train/val theo tỉ lệ 80/20.
  * Đối với việc đánh giá thì em dành những ảnh chụp thực tế chưa dán nhãn cả phần VietOCR và YOLO chia làm 3 phần: easy(106), medium(147), hard(71)
  ## **4.Data:**
- * Data YOLO: 
- * Data OCR:
+ * Data YOLO: https://drive.google.com/file/d/1wmFvdessDGsXND22T3sdgNaizbmzvqOT/view?usp=sharing
+ * Data OCR: https://drive.google.com/uc?id=1LqaWeO2qOgZIO3LdrPtntOioQJWdwA-V
  ## **5.Trainning:** Quá trình trainning chia làm hai phần:
  * Object-detection (YOLO): <a href="https://colab.research.google.com/drive/1JnxkR9EeLXjfqhK-OlJXjkeWgB1yE1xP?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
  * OCR (VietOCR): <a href="https://colab.research.google.com/drive/1DG0j27Ll73Pw0z66NKS1zl56JhCFDigO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
